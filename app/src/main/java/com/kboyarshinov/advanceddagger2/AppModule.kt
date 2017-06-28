@@ -1,7 +1,7 @@
 package com.kboyarshinov.advanceddagger2
 
-import com.kboyarshinov.advanceddagger2.ui.RealToaster
-import com.kboyarshinov.advanceddagger2.ui.Toaster
+import com.stepango.mylibrary.ui.RealToaster
+import com.stepango.mylibrary.ui.Toaster
 import dagger.Module
 import dagger.Provides
 import dagger.Reusable
